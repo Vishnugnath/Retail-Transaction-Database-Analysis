@@ -35,7 +35,7 @@ To run the analysis, follow these steps:
 3. **Run the Queries:** Use the provided SQL queries to perform the analysis and obtain the results.
 
 ## SQL Queries
-The SQL queries used for each objective are provided in the `assignment.sql` file. You can run these queries in MySQL Workbench to replicate the analysis.
+The SQL queries used for each objective are provided in the `code.sql` file. You can run these queries in MySQL Workbench to replicate the analysis.
 
 
 
